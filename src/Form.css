@@ -1,8 +1,10 @@
+/* Body Styling */
 body {
   background-color: #333;
   color: white;
 }
 
+/* Form Styling */
 form {
   max-width: 400px;
   margin: 20px auto;
@@ -12,11 +14,13 @@ form {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
+/* Label Styling */
 label {
   display: block;
   margin-bottom: 8px;
 }
 
+/* Input, Select, and Button Styling */
 input,
 select,
 button {
@@ -29,29 +33,34 @@ button {
   color: white;
 }
 
+/* Checkbox and Radio Button Styling */
 input[type="checkbox"],
 input[type="radio"] {
   width: auto;
   margin-right: 8px;
 }
 
+/* Button Styling */
 button {
-  background-color: #007bff; /* Blue color, you can change it */
+  background-color: #007bff;
   border: none;
   color: white;
   cursor: pointer;
 }
 
+/* Button Hover Styling */
 button:hover {
   background-color: blue;
   border: none;
 }
 
+/* Paragraph Styling */
 p {
   margin-top: 20px;
   font-size: 14px;
 }
 
+/* Data Styling */
 .data {
   max-width: 1200px;
   margin: 20px auto;
